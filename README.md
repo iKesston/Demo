@@ -2,7 +2,7 @@
 
 A single-file static landing page for CapitalEdge Advisors — an investment strategy consultancy.
 
-**Live site:** https://ikesston.github.io/learn/
+**Live site:** https://ukesston.github.io/learn/
 
 ![Hero screenshot](hero-preview.jpeg)
 
